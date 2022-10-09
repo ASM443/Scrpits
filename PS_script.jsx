@@ -1,3 +1,6 @@
+// A PhotoShop script for automatically adding pictures to a into a document horizontally then saving as a JPG 
+
+
 var activeDoc = app.activeDocument;
 var pos = 0;
 var masterIndex = 1;
